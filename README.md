@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Hassan Khan<br><br>I'm a passionate Web Developer with hands-on experience in building scalable, user-friendly web applications.<br><br>💻 What I work with:<br>- Frontend: React.js, Next.js, TypeScript, Ant Design<br>- Backend: Node.js, Express.js, GraphQL<br>- Database: PostgreSQL, MongoDB<br>- DevOps & Tools: Git, GitHub, REST APIs<br><br>🚀 What I focus on:<br>- Writing clean, maintainable code<br>- Performance optimization & bug fixing<br>- Converting complex requirements into simple UI/UX<br>- Full-stack features like Ratings, Reviews, Bookings, and Dashboards<br><br>📚 Currently learning:<br>- Query optimization and system design<br><br>📫 Let's connect:<br>Always open to collaboration, learning, and new challenges.<br>
+
+👋 Hi, I'm Hassan Ahmed Khan<br><br>I'm a passionate Full Stack Web Developer  with hands-on experience in building scalable, user-friendly web applications.<br><br>💻 What I work with:<br>- Frontend: React.js, Next.js, TypeScript, Ant Design<br>- Backend: Node.js, Express.js, GraphQL<br>- Database: PostgreSQL, MongoDB<br>- DevOps & Tools: Git, GitHub, REST APIs<br><br>🚀 What I focus on:<br>- Writing clean, maintainable code<br>- Performance optimization & bug fixing<br>- Converting complex requirements into simple UI/UX<br>- Full-stack features like Ratings, Reviews, Bookings, and Dashboards<br><br>📚 Currently learning:<br>- Query optimization and system design<br><br>📫 Let's connect:<br>Always open to collaboration, learning, and new challenges.<br>
 
 
 ## 🌐 Socials:
